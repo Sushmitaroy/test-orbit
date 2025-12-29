@@ -1,0 +1,14 @@
+The current weather in Delhi is as follows:
+
+- **Conditions:** Fog
+- **Temperature:** 10.05°C
+- **Feels Like:** 9.72°C
+- **Humidity:** 100%
+- **Wind Speed:** 0 km/h
+- **Pressure:** 1016 hPa
+
+### Weather Forecast for Today:
+- **High:** 10.05°C
+- **Low:** 10.05°C
+
+It seems to be a foggy day with no significant temperature variation expected.
